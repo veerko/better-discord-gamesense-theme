@@ -1,5 +1,5 @@
 # 📸 Preview
-![GameSense: BetterDiscord Theme by Motify](https://i.imgur.com/u7Ft2AH.png)
+![GameSense: BetterDiscord Theme by Motify](https://i.imgur.com/rZWz8lE.png)
 Carbon inspired theme for [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord).
 
 ## 💭 Business inquiries:
