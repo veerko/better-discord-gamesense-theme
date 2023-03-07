@@ -3,6 +3,4 @@
 Carbon inspired theme for [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord).
 
 ## 💭 Business inquiries:
-+ ![Discord](https://i.imgur.com/xY90BoB.png) __Discord__ ― [Motify#0033](https://href.li/?https://discord.com/users/850826026959372308/profile)
-+ ![GameSense: Discord Server](https://i.imgur.com/xY90BoB.png) __Server__ ― [discord.gg/gRAZq5sgyq](https://discord.gamesense.media)
-+ ![GameSense: Forums](https://i.imgur.com/90mTGdr.png) __My project__ ― [gamesense.vip](https://gamesense.vip/)
++ ![Discord](https://i.imgur.com/xY90BoB.png) __Discord__ ― [st1ko#4307](https://href.li/?https://discord.com/users/934730103261364334/profile)
